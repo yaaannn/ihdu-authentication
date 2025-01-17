@@ -2,5 +2,6 @@
 
 1. python -m venv .venv
 2. source .venv/bin/active
-3. enter username and password in config.toml
-4. run login.py
+3. pip install -r requirements.txt
+4. enter username and password in config.toml
+5. run login.py
